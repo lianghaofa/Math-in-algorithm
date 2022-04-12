@@ -29,12 +29,9 @@ if b % r = 0.
 
 in conclusion, gcd(a, b) = gcd(b, a % b).
 
-
-Now I am confused about why start with a = b*q + r.
-
-
-
     private int gcd(int a, int b){
         return b % a == 0 ? b : gcd(b, b % a);
     }
 
+
+Now I am confused about why start with a = b*q + r.
