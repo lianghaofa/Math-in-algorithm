@@ -1,0 +1,11 @@
+/**
+     * @author LiangHaoFa
+     * @date 2022/4/12 15:51
+     * @description
+     * @param a bigger than b , anc can't be zero
+     * @param b lesser than a , anc can't be zero
+     * @return int
+     */
+    private int gcd(int a, int b){
+        return b % a == 0 ? b : gcd(b, b % a);
+    }
