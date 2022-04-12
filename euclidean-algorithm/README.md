@@ -1,12 +1,12 @@
 gcd
 
 a = b*q + r
+
 15 = 10 * 1 + 5
 
 66 = 30 * 2 + 6  
 
 a = 66, b = 30,r = 6...
-
 
 1.suppose d is any common divsor of a and b.
 
@@ -21,14 +21,16 @@ d | (a - bq) , q is interger.
 (d | a)  -  (d | bq)  
 3 | 66 - 3 | 60 = 12 - 10 = 2
 
-3.when d is the largest divsor of a and b ?
+3.maybe we can just get the largest divsor of b and r .
 
-if b % a = 0.
+4.when d is the largest divsor of b and r ?
+
+if b % r = 0.
 
 in conclusion, gcd(a, b) = gcd(b, a % b).
 
 
-66 = 30 + 36
+Now I am confused about why start with a = b*q + r.
 
 
 
