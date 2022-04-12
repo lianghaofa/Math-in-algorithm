@@ -28,7 +28,11 @@ that means slow start with a and fats start with p, they will meet at the e.
 
 so. why (f - 2*s - 1) >= 1 ?
 
+// let me give you a intuition.
+
+
 f always twice bigger than or equal s.
+
 
 ceae0:when f equals 0,f equals s.
 why ?
