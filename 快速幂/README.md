@@ -17,4 +17,6 @@ generally:
 ![8322ab43f72a1b7551f7ff6eaa81491](https://user-images.githubusercontent.com/24481784/163240337-602c86d4-b6db-49e1-bb0d-25e1d723cf9d.png)
 
 
+how to calculate factor matrix ?
+
 
