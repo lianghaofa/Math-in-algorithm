@@ -12,3 +12,19 @@ permutation
 递增
 或者
 递减
+
+排列 = 组合 / 排列数
+
+7个数选择2个数，2 * 1
+排列 = 7 * 6
+
+组合 = 7 * 6 / (2 * 1)
+
+
+
+![599375d93b6f7bd52fdedcbda8e0b5d](https://user-images.githubusercontent.com/24481784/163396561-5d1bd255-32f1-420b-9183-99c676e69f49.png)
+
+
+![4c217bdf1b871d173a07c55e8c27e1c](https://user-images.githubusercontent.com/24481784/163396631-318bc385-89ea-4aba-bb77-e20633601925.jpg)
+
+
